@@ -1,3 +1,12 @@
+/*
+Circle to Circle Collision - MAIN STYLESHEET
+Copyright (C) 2018 Matthew Aguiar
+
+  Objective:
+  The objective of this test platform is to test the concept of collision detection between two circles. It accomplishes this goal
+  using the Pythagorean Theorum to calculate the distance between two objects. Once the circles begin to overlap (the distance between them is less than their radii),
+  a collision has occured!
+*/
 html, body{
   width: 100%;
   height: 100%;
